@@ -1,0 +1,5 @@
+H2 Database Engine 2.3.232
+Copyright 2004-2024 H2 Group. Multiple-Licensed under MPL 2.0 and EPL 1.0.
+Puede utilizarse bajo cualquiera de estas licencias.
+Fuente y documentación: https://github.com/h2database/h2database/tree/version-2.3.232
+Binario sin modificar: lib/h2-2.3.232.jar

@@ -1,0 +1,15 @@
+Ejecución en entorno Linux con Java 17 y H2 JDBC
+OK - Base de prueba inicialmente vacía
+OK - Inserción y consulta JDBC
+OK - Teléfono conserva ceros iniciales
+OK - Persistencia al abrir otra conexión
+OK - Rechazo de NIT duplicado
+OK - Actualización JDBC
+OK - Consulta confirma actualización
+OK - Caracteres especiales se guardan como datos
+OK - Eliminación JDBC conserva otros registros
+OK - Identificador inexistente no elimina otros datos
+OK - Base de práctica queda vacía
+OK - Validación de nombre obligatorio
+OK - Validación del correo
+RESULTADO: 13 comprobaciones correctas. Interfaz gráfica pendiente de revisión en Windows.
